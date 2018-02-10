@@ -22,7 +22,7 @@ ExportedObj/
 *.booproj
 *.svd
 *.pdb
-.vs
+
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -33,5 +33,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-*.ide
-*.ide
+
+.vs/
