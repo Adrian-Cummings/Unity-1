@@ -10,7 +10,7 @@ public class Charactercontroller : MonoBehaviour {
 
 	}
 
-    
+    //test
 	
 	// Update is called once per frame
 	void Update () {
